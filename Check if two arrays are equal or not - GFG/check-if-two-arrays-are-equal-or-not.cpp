@@ -19,9 +19,7 @@ class Solution{
         sort(arr2.begin(),arr2.end());
         for (int i = 0; i < n; i++)
         {
-            if (arr1[i] == arr2[i])
-                continue;
-            else
+            if (arr1[i] != arr2[i])
                 return false;
         }
         return true;  //code here
