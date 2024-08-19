@@ -1,0 +1,7 @@
+.printMessage {
+    display: flex;
+    flex-direction: column;
+    gap:4px;
+    justify-content: center;
+    align-items: center;
+  }
