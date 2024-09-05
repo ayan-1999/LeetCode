@@ -17,7 +17,7 @@ public:
                 else return false;
             }
         }
-        return stk.empty()?true:false;
+        return stk.empty();
         
     }
 };
