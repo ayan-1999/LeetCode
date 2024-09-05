@@ -11,8 +11,12 @@ public:
                 count++;
                 if(count>n/2)return nums[i];
             }
-            else newElement=nums[i];
+            else {
+                newElement=nums[i];
+                count=1;
+           
+            }
         }
-        return 0;
+        return -1;
     }
 };
