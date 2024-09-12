@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/ayan-1999/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayan-1999/LeetCode/tree/master/0055-jump-game) |
+| [0134-gas-station](https://github.com/ayan-1999/LeetCode/tree/master/0134-gas-station) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/ayan-1999/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayan-1999/LeetCode/tree/master/0055-jump-game) |
+| [0134-gas-station](https://github.com/ayan-1999/LeetCode/tree/master/0134-gas-station) |
 ## Two Pointers
 |  |
 | ------- |
