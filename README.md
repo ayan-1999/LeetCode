@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ayan-1999/LeetCode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/ayan-1999/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayan-1999/LeetCode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/ayan-1999/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ayan-1999/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ayan-1999/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/ayan-1999/LeetCode/tree/master/0392-is-subsequence) |
 ## String
