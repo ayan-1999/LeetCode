@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/ayan-1999/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ayan-1999/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/ayan-1999/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1635-number-of-good-pairs](https://github.com/ayan-1999/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayan-1999/LeetCode/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/ayan-1999/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -69,10 +71,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayan-1999/LeetCode/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/ayan-1999/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ayan-1999/LeetCode/tree/master/0189-rotate-array) |
+| [1635-number-of-good-pairs](https://github.com/ayan-1999/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
