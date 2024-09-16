@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/ayan-1999/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ayan-1999/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/ayan-1999/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/ayan-1999/LeetCode/tree/master/0605-can-place-flowers) |
 | [1635-number-of-good-pairs](https://github.com/ayan-1999/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/ayan-1999/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayan-1999/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ayan-1999/LeetCode/tree/master/0134-gas-station) |
+| [0605-can-place-flowers](https://github.com/ayan-1999/LeetCode/tree/master/0605-can-place-flowers) |
 ## Two Pointers
 |  |
 | ------- |
