@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayan-1999/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayan-1999/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/ayan-1999/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/ayan-1999/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayan-1999/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ayan-1999/LeetCode/tree/master/0066-plus-one) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ayan-1999/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayan-1999/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ayan-1999/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
