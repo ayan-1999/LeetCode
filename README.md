@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayan-1999/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayan-1999/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayan-1999/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ayan-1999/LeetCode/tree/master/0035-search-insert-position) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayan-1999/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ayan-1999/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ayan-1999/LeetCode/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/ayan-1999/LeetCode/tree/master/1635-number-of-good-pairs) |
