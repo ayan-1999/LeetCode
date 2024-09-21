@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayan-1999/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ayan-1999/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ayan-1999/LeetCode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/ayan-1999/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ayan-1999/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ayan-1999/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/ayan-1999/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -76,12 +77,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ayan-1999/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ayan-1999/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ayan-1999/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ayan-1999/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayan-1999/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ayan-1999/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ayan-1999/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ayan-1999/LeetCode/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/ayan-1999/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
