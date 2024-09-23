@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/ayan-1999/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ayan-1999/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayan-1999/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/ayan-1999/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/ayan-1999/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/ayan-1999/LeetCode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ayan-1999/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/ayan-1999/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ayan-1999/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayan-1999/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/ayan-1999/LeetCode/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
