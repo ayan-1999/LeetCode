@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/ayan-1999/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/ayan-1999/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ayan-1999/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/ayan-1999/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0136-single-number](https://github.com/ayan-1999/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ayan-1999/LeetCode/tree/master/0268-missing-number) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/ayan-1999/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Stack
 |  |
 | ------- |
