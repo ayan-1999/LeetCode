@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/ayan-1999/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/ayan-1999/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/ayan-1999/LeetCode/tree/master/0392-is-subsequence) |
+| [1205-defanging-an-ip-address](https://github.com/ayan-1999/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1894-merge-strings-alternately](https://github.com/ayan-1999/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
